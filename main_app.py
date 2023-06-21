@@ -1,7 +1,8 @@
 """
 
 """
-import pygame
+
+
 
 # 初期化
 pygame.init()
